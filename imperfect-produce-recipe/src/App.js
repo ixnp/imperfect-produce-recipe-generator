@@ -8,6 +8,7 @@ function App() {
       <h1>Imperfect-produce-recipe</h1>
       <ul>
         <li>hi</li>
+        <li>hi</li>
       </ul>
     </div>
   );
